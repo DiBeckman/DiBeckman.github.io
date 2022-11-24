@@ -1,0 +1,130 @@
+body
+{
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: small;
+}
+
+h1 {
+	font-size: large;
+	font-weight: bold;
+	text-transform: uppercase;
+}
+
+h2 {
+	font-size: inherit;
+	font-weight: bold;
+}
+
+h3 {
+	font-size: inherit;
+	font-weight: bold;
+}
+
+h4 {
+	font-size: inherit;
+	font-weight: bold;
+}
+
+.date {
+	color: #990000; 
+}
+
+.class {
+	color: #990099;
+}
+
+.text {
+	font-style: italic;
+}
+
+ol li {
+	margin-bottom: 10px;
+}
+
+.unspaced li {
+	margin-bottom: auto;
+}
+
+
+.citation:before {
+	content:"Source: "
+}
+
+.citation {
+	border: 1px dotted;
+}
+
+.hidden {
+	display: none;
+}
+
+.section1 {
+	color: #009999;
+}
+
+.section2 {
+	color: #990099;
+}
+
+.extracredit {
+	color: #51892D;
+}
+
+.maroon {
+	color: maroon;
+}
+
+.red {
+	color: red;
+}
+
+.purple {
+	color: purple;
+}
+
+.fuchsia {
+	color: fuchsia;
+}
+
+.orange
+{
+	color: orange;
+}
+
+.green
+{
+	color: green;
+}
+
+.blue
+{
+	color: blue;
+}
+
+.teal
+{
+	color: teal;
+}
+
+.u
+{
+	text-decoration: underline;
+}
+
+.composition {
+	color: #990000;
+	font-style: italic;
+}
+
+.lecture {
+	color: fuchsia;
+}
+
+.workbook {
+	color: #009999;
+}
+
+.egsf
+{
+	color: #0066FF;
+}
